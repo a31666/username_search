@@ -2,7 +2,7 @@ import colorama, requests
 from colorama import Fore
 
 
-def usrchk(usernamee):
+def usrchk(mabelj.white@gmail.com):
     
     try: #=====================
         try: #                 \
